@@ -1,0 +1,21 @@
+driverId,driverName,constructor,position,points,raceTime,Status,fastestLap
+4,Lando Norris,McLaren,1.0,25.0,0 days 01:40:33.843000,Finished,None
+16,Charles Leclerc,Ferrari,2.0,18.0,0 days 00:00:03.131000,Finished,None
+81,Oscar Piastri,McLaren,3.0,15.0,0 days 00:00:03.658000,Finished,None
+1,Max Verstappen,Red Bull Racing,4.0,12.0,0 days 00:00:20.572000,Finished,None
+44,Lewis Hamilton,Ferrari,5.0,10.0,0 days 00:00:51.387000,Finished,None
+6,Isack Hadjar,Racing Bulls,6.0,8.0,0 days 00:01:05.082000,Lapped,None
+31,Esteban Ocon,Haas F1 Team,7.0,6.0,0 days 00:01:06.029000,Lapped,None
+30,Liam Lawson,Racing Bulls,8.0,4.0,0 days 00:01:06.746000,Lapped,None
+23,Alexander Albon,Williams,9.0,2.0,0 days 00:00:11.869000,Lapped,None
+55,Carlos Sainz,Williams,10.0,1.0,0 days 00:00:15.232000,Lapped,None
+63,George Russell,Mercedes,11.0,0.0,0 days 00:00:33.844000,Lapped,None
+87,Oliver Bearman,Haas F1 Team,12.0,0.0,0 days 00:00:54.693000,Lapped,None
+43,Franco Colapinto,Alpine,13.0,0.0,0 days 00:00:57.114000,Lapped,None
+5,Gabriel Bortoleto,Kick Sauber,14.0,0.0,0 days 00:01:08.424000,Lapped,None
+18,Lance Stroll,Aston Martin,15.0,0.0,0 days 00:01:10.395000,Lapped,None
+27,Nico Hulkenberg,Kick Sauber,16.0,0.0,0 days 00:01:11.544000,Lapped,None
+22,Yuki Tsunoda,Red Bull Racing,17.0,0.0,0 days 00:01:11.849000,Lapped,None
+12,Kimi Antonelli,Mercedes,18.0,0.0,0 days 00:00:08.409000,Lapped,None
+14,Fernando Alonso,Aston Martin,19.0,0.0,NaT,Retired,None
+10,Pierre Gasly,Alpine,20.0,0.0,NaT,Retired,None
